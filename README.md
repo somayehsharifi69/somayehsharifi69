@@ -16,6 +16,6 @@ To date, my experience as a researcher in my field of study has been extremely r
 
 - Email: somayeh.sharifi@tu-dresden
 - LinkedIn: ([linkedin.com/in/somayeh--sharifi](https://www.linkedin.com/in/somayeh--sharifi/))
-- GitHub: (h[ttps://www.bing.com/search?pglt=43&q=somayeh+sh1](https://github.com/somayehsharifi69))
+- GitHub: (https://github.com/somayehsharifi69)
 - Google Scholar: (https://scholar.google.com/citations?user=Hr2Li7YAAAAJ&hl=en)
 - 
