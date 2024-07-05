@@ -9,8 +9,10 @@ To date, my experience as a researcher in my field of study has been extremely r
 
 ## Skills
 
-- **Programming Languages:** Python, Mathematica
-- **Tools:** Git, VS Code
+- **Programming Languages:** Python (including libraries such as NumPy,
+Pandas, Matplotlib, and Scikit-Learn)
+- **Tools:** Git,
+Jupyter and VS Code
 
 ## Contact Information
 
