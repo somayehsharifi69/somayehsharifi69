@@ -5,7 +5,7 @@
 
 I am a seasoned mathematician with several years of extensive research experience in mathematics and interdisciplinary studies, specializing in Optimization Problems, Game Theory, Statistics, Numerical Analysis, and Quantum Computing.
 
-To date, my experience as a researcher in my field of study has been extremely rewarding and productive. I aspire to advance my expertise in Data Sciences, Machine Learning, and Algorithms. My ultimate goal is to become an expert in a specific domain and subsequently share my research experience and ideas within the education field. Committed to continuous learning and sharing knowledge through educational initiatives.
+Enthusiastic and productive researcher specializing in Applied Mathematics and Optimization Problems. Deep interest in Data Science, Machine Learning, and Algorithms. Dedicated to advancing research and contributing to the field through innovative projects and collaboration. Committed to continuous learning and sharing knowledge through educational initiatives.
 
 ## Skills
 
