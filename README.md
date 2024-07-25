@@ -9,10 +9,13 @@ Enthusiastic and productive researcher specializing in Applied Mathematics and O
 
 ## Skills
 
-- **Programming Languages:** Python (including libraries such as NumPy,
-Pandas, Matplotlib, and Scikit-Learn)
-- **Tools:** Git,
-Jupyter and VS Code
+-- **Programming Languages**: Python (including libraries such as NumPy, Pandas, Matplotlib, and
+Scikit-Learn)
+-- **Data Processing and Analysis**: Proficient in using Python with Pandas and NumPy
+-- **Data Visualization**: Experienced with Matplotlib and Seaborn
+Document Preparation: Skilled in LaTeX for document preparation and formatting
+Development Tools: Proficient in Git, Jupyter and VS Code
+
 
 ## Contact Information
 
