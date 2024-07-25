@@ -13,8 +13,8 @@ Enthusiastic and productive researcher specializing in Applied Mathematics and O
 Scikit-Learn)
 - **Data Processing and Analysis**: Proficient in using Python with Pandas and NumPy
 - **Data Visualization**: Experienced with Matplotlib and Seaborn
-Document Preparation: Skilled in LaTeX for document preparation and formatting
-Development Tools: Proficient in Git, Jupyter and VS Code
+- **Document Preparation**: Skilled in LaTeX for document preparation and formatting
+- **Development Tools**: Proficient in Git, Jupyter and VS Code
 
 
 ## Contact Information
